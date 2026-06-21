@@ -42,3 +42,20 @@ A home lab project created to practice network storage, file sharing, and server
 - TrueNAS
 - Network Storage
 - Server Hardware
+
+## TrueNAS Dashboard
+
+![image alt]()
+
+
+## Storage Pool
+
+![image alt]()
+
+
+## Shares
+
+![image alt]()
+
+
+
